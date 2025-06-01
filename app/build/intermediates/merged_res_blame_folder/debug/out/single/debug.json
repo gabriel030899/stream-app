@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.streamapp-merged_res-28:/layout_activity_login.xml.flat",
+        "source": "com.streamapp-main-30:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.streamapp-merged_res-28:/layout_activity_content_detail.xml.flat",
+        "source": "com.streamapp-main-30:/layout/activity_content_detail.xml"
+    },
+    {
+        "merged": "com.streamapp-merged_res-28:/layout_activity_content_list.xml.flat",
+        "source": "com.streamapp-main-30:/layout/activity_content_list.xml"
+    }
+]

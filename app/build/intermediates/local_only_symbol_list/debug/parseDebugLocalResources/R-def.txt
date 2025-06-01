@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+id contentList
+id contentTitle
+id description
+id loginButton
+id loginTitle
+id password
+id title
+id username
+layout activity_content_detail
+layout activity_content_list
+layout activity_login
